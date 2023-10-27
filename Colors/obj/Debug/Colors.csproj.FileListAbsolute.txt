@@ -1,0 +1,15 @@
+C:\Users\Даниил\Desktop\myC#\Colors\obj\Debug\Colors.csproj.GenerateResource.Cache
+C:\Users\Даниил\Desktop\myC#\Colors\obj\Debug\Colors.Form1.resources
+C:\Users\Даниил\Desktop\myC#\Colors\obj\Debug\Colors.Properties.Resources.resources
+C:\Users\Даниил\Desktop\myC#\Colors\bin\Debug\Colors.exe
+C:\Users\Даниил\Desktop\myC#\Colors\bin\Debug\Colors.pdb
+C:\Users\Даниил\Desktop\myC#\Colors\obj\Debug\Colors.exe
+C:\Users\Даниил\Desktop\myC#\Colors\obj\Debug\Colors.pdb
+D:\myC#\Colors\obj\Debug\Colors.exe
+D:\myC#\Colors\obj\Debug\Colors.pdb
+D:\myC#\Colors\bin\Debug\Colors.exe
+D:\myC#\Colors\bin\Debug\Colors.pdb
+D:\myC#\Colors\obj\Debug\Colors.csprojResolveAssemblyReference.cache
+D:\myC#\Colors\obj\Debug\Colors.Form1.resources
+D:\myC#\Colors\obj\Debug\Colors.Properties.Resources.resources
+D:\myC#\Colors\obj\Debug\Colors.csproj.GenerateResource.Cache
